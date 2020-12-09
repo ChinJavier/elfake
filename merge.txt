@@ -1,4 +1,2 @@
 maintu hermana POR SIEMPRE  :3 .v 
-if(true){
-
-}
+p[0] = newNodo(p[1] + p[2])
