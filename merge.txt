@@ -1,3 +1,4 @@
 maintu hermana POR SIEMPRE  :3 .v 
 p[0] = newNodo(p[1] + p[2])
 ESTA LINEA DE JAVIER CHIN
+ESTA CREO QUE SE BORRA
